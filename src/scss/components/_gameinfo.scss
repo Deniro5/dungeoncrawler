@@ -1,0 +1,28 @@
+.gameInfoContainer {
+  width: 200px;
+  display: inline-block;
+  position: absolute;
+  left: -200px;
+  text-align: center;
+  color: rgb(235, 235, 235);
+}
+
+.infoDiv {
+  p {
+    height: 10px;
+    margin: 10px;
+    margin-top: 15px;
+    display: inline-block;
+  }
+  img {
+    display: inline-block;
+    transform: translateY(2px);
+  }
+}
+
+.nextContainer {
+  position: relative;
+  height: 68px;
+  width: 68px;
+  margin-left: 23px;
+}
