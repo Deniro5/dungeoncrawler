@@ -5,15 +5,15 @@ const GameInfo = (props) => {
     <div className='gameInfoContainer'>
       <div className='infoDiv'>
         <div>
-          <img alt='hearts' src='/dungeonimg/heart.png' />
+          <img alt='hearts' src='dungeonimg/heart.png' />
           <p> {props.hearts} </p>
         </div>
         <div>
-          <img alt='keys' src='/dungeonimg/key.png' />
+          <img alt='keys' src='dungeonimg/key.png' />
           <p> {props.keys} </p>
         </div>
         <div>
-          <img alt='arrows' src='/dungeonimg/arrow.png' />
+          <img alt='arrows' src='dungeonimg/arrow.png' />
           <p> {props.ammo} </p>
         </div>
       </div>
