@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c3960d14ffbac624967b",
+    "revision": "26f7569a9aab82738cd9",
     "url": "/dungeoncrawler/./static/css/main.73c88fe8.chunk.css"
   },
   {
-    "revision": "c3960d14ffbac624967b",
-    "url": "/dungeoncrawler/./static/js/main.c3960d14.chunk.js"
+    "revision": "26f7569a9aab82738cd9",
+    "url": "/dungeoncrawler/./static/js/main.26f7569a.chunk.js"
   },
   {
     "revision": "c1df04674da97935aa86",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/dungeoncrawler/./static/js/runtime~main.30e69c3a.js"
   },
   {
-    "revision": "4a75db6d517828e09fa73f41f9a7d5dd",
+    "revision": "6139b7bdb3c960fe185d884dd5eea2c6",
     "url": "/dungeoncrawler/./index.html"
   }
 ];
