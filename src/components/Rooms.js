@@ -1,5 +1,7 @@
 const rooms = [];
 
+//We store the initial positions of each object within a room in an array
+
 const initializeRoom = () => {
   let newBoard = [];
   let count = 0;

@@ -1,6 +1,8 @@
 import React from "react";
 
 const Intro = (props) => {
+  const { start } = props;
+
   return (
     <div className='introContainer'>
       <div className='introTextContainer'>
@@ -15,7 +17,7 @@ const Intro = (props) => {
         <p style={{ fontSize: "14px", lineHeight: "20px" }}>
           - Shoot arrows/open chests with the space bar.
         </p>
-        <button onClick={props.start}> Start Game</button>
+        <button onClick={start}> Start Game</button>
       </div>
     </div>
   );

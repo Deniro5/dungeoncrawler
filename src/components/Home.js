@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Board from "./Board";
 import Intro from "./Intro";
 
-const Home = (props) => {
+const Home = () => {
   const [showIntro, setShowIntro] = useState(true);
 
   return (
